@@ -1,0 +1,21 @@
+PART 1
+- ONLINE create repository;
+- clone repo to your PC/notebook;
+- add file "home-work-01.txt";
+- insert text "my first change" into file "home-work-01.txt";
+- commit and push changes;
+
+PART 2
+- create branch "feature1";
+- add new line "my second change" to file "home-work-01.txt";
+- update file "home-work-01.txt", change "my first change" to "my first feature change";
+- commit and push "feature1" branch;
+
+PART 3
+- ONLINE update "home-work-01.txt" in "main" branch, change "my first change" to "my first main change";
+- ONLINE commit changes;
+- switch to "main" branch;
+- get the latest changes from the server;
+- merge "feature1" to the "main" branch;
+- fix merge conflicts, first line should be "my first main and feature changes";
+- commit and push "main" branch;
