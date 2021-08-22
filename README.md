@@ -1,3 +1,3 @@
 # git-demo1
 
-line1 ??
+solved problem is described in the homework1.txt file.
